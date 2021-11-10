@@ -1,2 +1,2 @@
 # qiskit-getting-started
-Getting started with Qiskit
+Getting started with IonQ + Qiskit 
