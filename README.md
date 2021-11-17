@@ -9,7 +9,7 @@
 
 First, make sure you follow the Qiskit installation steps for your OS first, found [here](https://qiskit.org/documentation/getting_started.html).
 
-Also, make sure your python interpreter / environment has the `qiskit-ionq` provider installed, e.g. Using: `pip install qiskit-ionq`.
+Also, make sure your python interpreter / environment has the `qiskit-ionq` provider installed, e.g. using: `pip install qiskit-ionq`.
 
 ## Run the samples
 
