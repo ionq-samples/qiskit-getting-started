@@ -9,13 +9,14 @@
 
 First, make sure you follow the Qiskit installation steps for your OS first, found [here](https://qiskit.org/documentation/getting_started.html).
 
+Also, make sure your python interpreter / environment has the `qiskit-ionq` provider installed, e.g. using: `pip install qiskit-ionq`.
 
 ## Run the samples
 
 | Notebook       | Description      |
 | ------------- | ---------- |
 | bell-cat-states.ipynb | Creates [Bell](https://en.wikipedia.org/wiki/Bell_state) and [Cat](https://en.wikipedia.org/wiki/Cat_state) states |
-| deutsch-jozsa.ipynb   | Performs the [Deutch-Jozsa](https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm) algorithm |
+| deutsch-jozsa.ipynb   | Performs the [Deutsch-Jozsa](https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm) algorithm |
 | rabi-flopping.ipynb | Simulates [Rabi flopping](https://en.wikipedia.org/wiki/Rabi_cycle) | 
 | circuit-training.ipynb | Demonstrates [Data-driven quantum circuit learning](https://advances.sciencemag.org/content/5/10/eaaw9918) | 
 | entangling-gates.ipynb | Demonstrates entangling gates | 
