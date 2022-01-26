@@ -15,6 +15,7 @@ Also, make sure your python interpreter / environment has the `qiskit-ionq` prov
 
 | Notebook       | Description      |
 | ------------- | ---------- |
+| bv/bernstein-vazirani-3q.ipynb | A three-qubit [Bernstein-Vazirani](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Vazirani_algorithm) example |
 | bell-cat-states.ipynb | Creates [Bell](https://en.wikipedia.org/wiki/Bell_state) and [Cat](https://en.wikipedia.org/wiki/Cat_state) states |
 | deutsch-jozsa.ipynb   | Performs the [Deutsch-Jozsa](https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm) algorithm |
 | rabi-flopping.ipynb | Simulates [Rabi flopping](https://en.wikipedia.org/wiki/Rabi_cycle) | 
