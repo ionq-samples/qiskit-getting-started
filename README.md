@@ -11,6 +11,8 @@ First, make sure you follow the Qiskit installation steps for your OS first, fou
 
 Also, make sure your python interpreter / environment has the `qiskit-ionq` provider installed, e.g. using: `pip install qiskit-ionq`.
 
+Finally, if you do not have JupyterLab or Jupyter Notebooks installed, follow the instructions from [here](https://jupyter.org/install).
+
 ## Run the samples
 
 | Notebook       | Description      |
